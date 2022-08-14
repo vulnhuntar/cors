@@ -1,0 +1,16 @@
+.button {
+                                background-color: black;
+                                border: 3 px solid seagreen;
+                                color: white;
+                                padding: 15px 32px;
+                                text-align: center;
+                                transition-duration: 0.4s;
+                                text-decoration: none;
+                                display: inline-block;
+                                font-size: 20px;
+                                border-radius: 50%;
+                        }
+                        .button:hover {
+                                background-color: #74f22c;
+                                color: red;
+                        }
